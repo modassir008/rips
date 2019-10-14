@@ -1,7 +1,7 @@
 package maven;
 
 public class m {
-	void m () {
+	m () {
 		System.out.println("hey");
 	}
 }
